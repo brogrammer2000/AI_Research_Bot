@@ -5,7 +5,6 @@ import useChatBot from "../hooks/useChatBot";
 import Markdown from "react-markdown";
 import useChatScroll from "../hooks/useChatScroll";
 import { IoMdDownload } from "react-icons/io";
-import html2canvas from "html2canvas";
 import jsPDF from "jspdf";
 
 const ChatComponent: React.FC = () => {
